@@ -1,0 +1,8 @@
+{
+  "name": "testcustcomp",
+  "description": "Custom module description here",
+  "type": "drupal-custom-module",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "require": { }
+}
