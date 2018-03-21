@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "testcustcomp/package_one": {
+            "dev-master": { @composer.json },
+            "1.0.0": { @composer.json }
+        },
+        "testcustcomp/package_two": {
+            "dev-master": { @composer.json },
+            "1.0.0": { @composer.json }
+        },
+        "testcustcomp/package_three": {
+            "dev-master": { @composer.json },
+            "1.0.0": { @composer.json }
+        },
+    }
+}
