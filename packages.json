@@ -1,16 +1,13 @@
 {
     "packages": {
         "testcustcomp/package_one": {
-            "dev-master": { @composer.json },
-            "1.0.0": { @composer.json }
+            "type":"drupal-custom-module",
         },
         "testcustcomp/package_two": {
-            "dev-master": { @composer.json },
-            "1.0.0": { @composer.json }
+            "type":"drupal-custom-module",
         },
         "testcustcomp/package_three": {
-            "dev-master": { @composer.json },
-            "1.0.0": { @composer.json }
+            "type":"drupal-custom-module",
         },
     }
 }
