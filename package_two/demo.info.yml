@@ -1,4 +1,5 @@
-name: Drupal 8 Demo module
+name: testcustcomp Drupal 8 Demo module
 description: 'Demo module for Drupal 8 alpha11'
+package: Custom
 type: module
 core: 8.x
